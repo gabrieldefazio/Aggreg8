@@ -1,0 +1,2 @@
+export const NYTIMES_KEY="9c23b504e6884c00b78755d2bf2a2988"
+export const GOOGLE_KEY="04d91d94f4184d1389cc49bd94fde7d5"

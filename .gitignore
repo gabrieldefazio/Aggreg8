@@ -7,10 +7,7 @@
 /node_modules
 
 # misc
-<<<<<<< HEAD
 .env.js
-=======
->>>>>>> 026266a7a3ed3fc094840c88a8e82bfcb55ecb02
 .env.local
 .env.development.local
 .env.test.local
