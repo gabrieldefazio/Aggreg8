@@ -3,8 +3,11 @@
   <component name="JavaScriptSettings">
     <option name="languageLevel" value="FLOW" />
   </component>
+<<<<<<< HEAD
   <component name="VagrantProjectSettings">
     <option name="instanceFolder" value="" />
     <option name="provider" value="" />
   </component>
+=======
+>>>>>>> 026266a7a3ed3fc094840c88a8e82bfcb55ecb02
 </project>

@@ -19,6 +19,7 @@
     "preset": "jest-expo"
   },
   "dependencies": {
+<<<<<<< HEAD
     "axios": "^0.17.1",
     "expo": "^23.0.4",
     "react": "16.0.0",
@@ -30,3 +31,10 @@
     "redux-thunk": "^2.2.0"
   }
 }
+=======
+    "expo": "^23.0.4",
+    "react": "16.0.0",
+    "react-native": "0.50.3"
+  }
+}
+>>>>>>> 026266a7a3ed3fc094840c88a8e82bfcb55ecb02
